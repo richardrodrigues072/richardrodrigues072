@@ -3,7 +3,7 @@
 **`Estudante de dados`**
 
 Me chamo Richard Rodrigues, tenho 22 anos e sou natural de Minas Gerais. Concluí o ensino médio em 2021 e fiz cursos na área de programaçâo. Atualmente, estou estudando Python através da Hashtag Treinamentos. Sou fissurado em tecnologia e  estou ansioso pra aprender ainda mais e me desenvolver profissionalmente nesse sentido.
-"[Dev em Dev]
+"
 
 <p align="left">
     <a href="https://www.youtube.com/@policialdisfar">
