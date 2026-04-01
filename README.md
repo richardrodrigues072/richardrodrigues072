@@ -95,7 +95,7 @@ Me chamo Richard Rodrigues, tenho 22 anos e sou natural de Minas Gerais. ConcluÃ
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardrodrigues072&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=richardrodrigues072&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9](https://v0.app/templates/estatisticas-de-linguagens-jk5qVNTupe9?ref=75WLYN)" 
   />
 
 </p>
