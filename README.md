@@ -10,7 +10,7 @@ Me chamo Richard Rodrigues, tenho 22 anos e sou natural de Minas Gerais. Conclu√
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://img.shields.io/badge/Inscreva%20se%20no%20meu%20canal-red?style=social&logo=Youtube&logoSize=auto&labelColor=black&color=red
+            src="https://custom-icon-badges.demolab.com/badge/policialdisfar-white.svg?logo=youtube&logoColor=red
             "
         />
     </a> 
@@ -18,7 +18,7 @@ Me chamo Richard Rodrigues, tenho 22 anos e sou natural de Minas Gerais. Conclu√
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://img.shields.io/badge/github-repo?style=social&logo=github&logoSize=auto&labelColor=black&color=blue
+            src="https://custom-icon-badges.demolab.com/badge/richard072-white.svg?logo=github&logoColor=black
             "
         />
     </a>
@@ -26,7 +26,7 @@ Me chamo Richard Rodrigues, tenho 22 anos e sou natural de Minas Gerais. Conclu√
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://img.shields.io/badge/richard%20saiki%20-%20%20o?style=social&logo=instagram&logoSize=auto&labelColor=black&color=blue
+            src="https://custom-icon-badges.demolab.com/badge/@richardsaiki-white.svg?logo=instagram&logoColor=red
             "
         />
     </a>
