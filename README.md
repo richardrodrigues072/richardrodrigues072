@@ -79,7 +79,13 @@ Me chamo Richard Rodrigues, tenho 22 anos e sou natural de Minas Gerais. Conclu�
 ### 📊 Estatísticas
 
 <p>
-    
+
+![richardrodrigues072's GitHub Stats](https://v0-git-hub-stats-visualizacao-k55u025js.vercel.app/api/stats?username=richardrodrigues072&theme=ocean)
+
+</p>
+
+<p>
+
 ![Tecnologias](https://v0-estatisticas-de-linguagens.vercel.app/api/svg?username=richardrodrigues072)
 
 </p>
