@@ -9,21 +9,21 @@ Me chamo Richard Rodrigues, tenho 22 anos e sou natural de Minas Gerais. Conclu√
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/badge/policialdisfar-white.svg?logo=youtube&logoColor=red"
+            src="https://custom-icon-badges.demolab.com/badge/policialdisfar-black.svg?logo=policialdisfar&logoColor=blue"
         />
     </a> 
     <a href="https://github.com/richardrodrigues072">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/richard072-white.svg?logo=github&logoColor=black"
+            alt="Meu Github" 
+            title="Meu Github" 
+            src="https://custom-icon-badges.demolab.com/badge/richard072-black.svg?logo=github&logoColor=blue"
         />
     </a>
     <a href="https://www.instagram.com?richardsaiki">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/@richardsaiki-white.svg?logo=instagram&logoColor=red"
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://custom-icon-badges.demolab.com/badge/@richardsaiki-black.svg?logo=instagram&logoColor=blue"
         />
     </a>
 </p>
